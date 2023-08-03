@@ -41,10 +41,14 @@ A C# console application to do a one-way synchronization between two folders. Th
    The path to source folder, the target folder and the log file.
    The synchronization delay in seconds
    ```
-3. Open a terminal window in the project directory
-4. In your terminal window, run the executable `TwoFolderSynchronizer.exe` with the data in step 1 as follows:
+2. Open a terminal window in the project directory
+3. In your terminal window, run the executable `TwoFolderSynchronizer.exe` with the data in step 1 as follows:
    ```sh
    .\bin\Debug\net7.0\TwoFolderSynchronizer.exe [PathToSourceFolder] [PathToTargetFolder] [SynchronizationDelayInSeconds] [PathToLogFile]
+   ```
+4. Example:
+   ```sh
+   .\bin\Debug\net7.0\TwoFolderSynchronizer.exe "C:\SourceFolder" "C:\TargetFolder" 5 "C:\logfile.txt"
    ```
 
 <!-- CONTACT -->
