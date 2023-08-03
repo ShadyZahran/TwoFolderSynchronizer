@@ -1,0 +1,12 @@
+3/8/23 9:48:20 PM - File deleted - D:\Germany\Jobs\Veeam\Junior QA Automation Engineer\TwoFolderSynchronizer\target\1.txt
+3/8/23 9:48:20 PM - File deleted - D:\Germany\Jobs\Veeam\Junior QA Automation Engineer\TwoFolderSynchronizer\target\hamada\2.txt
+3/8/23 9:48:20 PM - File deleted - D:\Germany\Jobs\Veeam\Junior QA Automation Engineer\TwoFolderSynchronizer\target\mayada\3.txt
+3/8/23 9:48:20 PM - File deleted - D:\Germany\Jobs\Veeam\Junior QA Automation Engineer\TwoFolderSynchronizer\target\hamada\hamada2\22.txt
+3/8/23 9:48:20 PM - directory deleted -D:\Germany\Jobs\Veeam\Junior QA Automation Engineer\TwoFolderSynchronizer\target\hamada\hamada2
+3/8/23 9:48:20 PM - directory deleted -D:\Germany\Jobs\Veeam\Junior QA Automation Engineer\TwoFolderSynchronizer\target\mayada
+3/8/23 9:48:20 PM - directory deleted -D:\Germany\Jobs\Veeam\Junior QA Automation Engineer\TwoFolderSynchronizer\target\hamada
+3/8/23 9:50:48 PM - Synchronization Complete.
+3/8/23 9:50:53 PM - Synchronization Complete.
+3/8/23 9:50:58 PM - Synchronization Complete.
+3/8/23 9:51:03 PM - Synchronization Complete.
+3/8/23 9:54:26 PM - Synchronization Complete.
