@@ -31,24 +31,25 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-A C# console application to do a one-way synchronization between two folders. The synchronization process will run periodically based on the the delay given. All operations executed during the synchronization process will be written in the log file provided.
+A C# console application to do a one-way synchronization between two folders, a source and a replica. The synchronization process will run periodically based on the the delay given. All operations executed during the synchronization process will be written in the log file provided.
 
 <!-- GETTING STARTED -->
 ## Running the program
 
-1. Prepare the following parameters:
+1. Create the source folder, the replica folder and the log file if they do not already exist.
+2. Prepare the following parameters:
    ```sh
-   The path to source folder, the target folder and the log file.
+   The path to source folder, the replica folder and the log file.
    The synchronization delay in seconds
    ```
-2. Open a terminal window in the project directory
-3. In your terminal window, run the executable `TwoFolderSynchronizer.exe` with the data in step 1 as follows:
+3. Open a terminal window in the project directory
+4. In your terminal window, run the executable `TwoFolderSynchronizer.exe` with the data in step 2 as follows:
    ```sh
-   .\bin\Debug\net7.0\TwoFolderSynchronizer.exe [PathToSourceFolder] [PathToTargetFolder] [SynchronizationDelayInSeconds] [PathToLogFile]
+   .\bin\Debug\net7.0\TwoFolderSynchronizer.exe [PathToSourceFolder] [PathToReplicaFolder] [SynchronizationDelayInSeconds] [PathToLogFile]
    ```
-4. Example:
+5. Example:
    ```sh
-   .\bin\Debug\net7.0\TwoFolderSynchronizer.exe "C:\SourceFolder" "C:\TargetFolder" 5 "C:\logfile.txt"
+   .\bin\Debug\net7.0\TwoFolderSynchronizer.exe "C:\SourceFolder" "C:\ReplicaFolder" 5 "C:\logfile.txt"
    ```
 
 <!-- CONTACT -->
